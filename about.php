@@ -39,7 +39,7 @@
             <div class="carousel-background"><img src="assets/img/slide/slide-1.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Pizza World</span></h2>
+                <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Fantasy Feed</span></h2>
                 <a href="index.php" class="btn-get-started animate__animated animate__fadeInUp scrollto">Get Started</a>
               </div>
             </div>
@@ -60,7 +60,7 @@
             <div class="carousel-background"><img src="assets/img/slide/slide-3.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animate__animated animate__fadeInDown mb-0">Parmar Darshan Kiritbhai</h2><p>CE084 <a href="https://github.com/darshankparmar" target="_blank">@darshankparmar</a></p>
+                <h2 class="animate__animated animate__fadeInDown mb-0"></h2><p>CE084 <a href="https://github.com/darshankparmar" target="_blank">@darshankparmar</a></p>
                 <a href="index.php" class="btn-get-started animate__animated animate__fadeInUp scrollto">Get Started</a>
               </div>
             </div>
@@ -93,8 +93,8 @@
 
         <div class="row">
           <div class="col-lg-6">
-            <h3>Welcome to <strong>Pizza World</strong></h3>
-            <h3><strong>The Worldwide Leader in Pizza Delivery</strong></h3>
+            <h3>Welcome to <strong>Fantasy Feed</strong></h3>
+            <h3><strong>The Worldwide Leader in Fantasy Feed</strong></h3>
             <p class="font-italic">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content">
@@ -150,7 +150,7 @@
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
             <div class="count-box">
               <i class="icofont-simple-smile"></i>
-              <span data-toggle="counter-up">232</span>
+              <span data-toggle="counter-up">1,000</span>
               <p><strong>Happy Customers</strong></p>
             </div>
           </div>
@@ -158,7 +158,7 @@
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
             <div class="count-box">
               <i class="icofont-document-folder"></i>
-              <span data-toggle="counter-up">121</span>
+              <span data-toggle="counter-up">250</span>
               <p><strong>Items</strong></p>
             </div>
           </div>
@@ -166,7 +166,7 @@
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
             <div class="count-box">
               <i class="icofont-live-support"></i>
-              <span data-toggle="counter-up">1,463</span>
+              <span data-toggle="counter-up">1,643</span>
               <p><strong>Hours Of Support</strong></p>
             </div>
           </div>
@@ -174,7 +174,7 @@
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
             <div class="count-box">
               <i class="icofont-users-alt-5"></i>
-              <span data-toggle="counter-up">15</span>
+              <span data-toggle="counter-up">4</span>
               <p><strong>Hard Workers</strong></p>
             </div>
           </div>
@@ -196,15 +196,15 @@
 
           <div class="col-xl-3 col-lg-4 col-md-6" data-wow-delay="0.1s">
             <div class="member">
-              <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/team/team-1.jpeg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Darshan Parmar</h4>
+                  <h4>Shaikh Minhaj</h4>
                 </div>
                 <div class="social">
-                  <a href="https://twitter.com/darshankparmar" target="_blank"><i class="icofont-twitter"></i></a>
-                  <a href="https://github.com/darshankparmar" target="_blank"><i class="fab fa-github"></i></a>
-                  <a href="https://www.linkedin.com/in/darshankparmar/" target="_blank"><i class="icofont-linkedin" target="_blank"></i></a>
+                  <a href="https://twitter.com/minhaj-313" target="_blank"><i class="icofont-twitter"></i></a>
+                  <a href="https://github.com/minhaj-313" target="_blank"><i class="fab fa-github"></i></a>
+                  <a href="" target="_blank"><i class="icofont-linkedin" target="_blank"></i></a>
                 </div>
               </div>
             </div>
@@ -215,11 +215,11 @@
               <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Harsh Patel</h4>
+                  <h4>Maaz Alam Siddiqui</h4>
                 </div>
                 <div class="social">
                   <a href=""><i class="icofont-twitter" target="_blank"></i></a>
-                  <a href="https://github.com/7Har" target="_blank"><i class="fab fa-github"></i></a>
+                  <a href="" target="_blank"><i class="fab fa-github"></i></a>
                   <a href=""><i class="icofont-linkedin" target="_blank"></i></a>
                 </div>
               </div>
@@ -231,7 +231,7 @@
               <img src="assets/img/team/team-5.jpg" class="img-fluid" alt="" style="height: 198px;width: 198px;">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Bhavesh Parmar</h4>
+                  <h4>Zaid Ahmed Khan</h4>
                 </div>
                 <div class="social">
                   <a href=""><i class="icofont-twitter" target="_blank"></i></a>
