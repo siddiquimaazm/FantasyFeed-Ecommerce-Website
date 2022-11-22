@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
     <style> 
         body {
-            background-color: #221b1b;
+            background-color: black;
         }
         .row {
             margin-right: 150px;
