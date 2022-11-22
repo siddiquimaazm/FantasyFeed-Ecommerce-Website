@@ -44,8 +44,6 @@
       ?>
     </div>
   </div>
-
-
     <?php require 'partials/_footer.php' ?>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
