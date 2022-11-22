@@ -10,15 +10,15 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #334240;
+  color: #FFFF00;
 }
 
 a {
-  color: #1bbca3;
+  color: #000000;
 }
 
 a:hover {
-  color: #2ae0c4;
+  color: #6c7c0e;
   text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 3px;
   right: 15px;
   bottom: 15px;
-  background: #1bbca3;
+  background: #FFFF00;
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top:hover {
   color: #fff;
-  background: #21dfc2;
+  background:  #ff7b00;
   transition: background 0.2s ease-in-out;
 }
 
@@ -78,7 +78,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo h1 a, #header .logo h1 a:hover {
-  color: #425451;
+  color:  #ff8800;
   text-decoration: none;
   font-family: "Poppins", sans-serif;
   font-weight: 600;
@@ -109,7 +109,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #425451;
+  color:  #FFFF00;
   padding: 14px 15px;
   transition: 0.3s;
   font-size: 13px;
@@ -120,7 +120,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #1bbca3;
+  color:  #FFFF00;
   text-decoration: none;
 }
 
@@ -158,7 +158,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #1bbca3;
+  color:  #FFFF00;
 }
 
 .nav-menu .drop-down > a:after {
@@ -231,7 +231,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #56e7d0;
+  color:  #FFFF00;
   text-decoration: none;
 }
 
@@ -276,7 +276,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #1bbca3;
+  color:  #FFFF00;
 }
 
 .mobile-nav-overly {
@@ -408,7 +408,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .carousel-indicators .active {
-  background-color: #1bbca3;
+  background-color:  #FFFF00;
 }
 
 #hero .btn-get-started {
@@ -425,11 +425,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #1bbca3;
+  border: 2px solid  #FFFF00;
 }
 
 #hero .btn-get-started:hover {
-  background: #1bbca3;
+  background:  #FFFF00;
   color: #fff;
   text-decoration: none;
 }
@@ -471,12 +471,12 @@ section {
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #4b605c;
+  color: #844f00;
 }
 
 .section-title p {
   margin-bottom: 0;
-  color: #5f7c78;
+  color: #8b5600;
 }
 
 /*--------------------------------------------------------------
@@ -547,7 +547,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #1bbca3;
+  color:  #FFFF00;
 }
 
 .about .content p:last-child {
@@ -583,7 +583,7 @@ section {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #1bbca3;
+  background-color:  #FFFF00;
 }
 
 /*--------------------------------------------------------------
@@ -599,7 +599,7 @@ section {
 .counts .count-box i {
   display: block;
   font-size: 30px;
-  color: #1bbca3;
+  color:  #FFFF00;
   float: left;
 }
 
@@ -661,7 +661,7 @@ section {
 }
 
 .services .icon-box:hover::before {
-  background: #1bbca3;
+  background:  #FFFF00;
   right: 0;
   top: 0;
   width: 100%;
@@ -677,7 +677,7 @@ section {
   border-radius: 50%;
   width: 60px;
   height: 60px;
-  background: #1bbca3;
+  background:  #FFFF00;
   transition: all 0.3s ease-in-out;
 }
 
@@ -694,7 +694,7 @@ section {
 }
 
 .services .title a {
-  color: #425451;
+  color:  #FFFF00;
 }
 
 .services .description {
@@ -712,7 +712,7 @@ section {
 }
 
 .services .icon-box:hover .icon i {
-  color: #1bbca3;
+  color:  #FFFF00;
 }
 
 /*--------------------------------------------------------------
@@ -744,13 +744,13 @@ section {
   border-radius: 25px;
   transition: 0.5s;
   margin-top: 10px;
-  border: 2px solid #1bbca3;
+  border: 2px solid  #FFFF00;
   color: #fff;
 }
 
 .cta .cta-btn:hover {
-  background: #1bbca3;
-  border: 2px solid #1bbca3;
+  background:  #FFFF00;
+  border: 2px solid  #FFFF00;
 }
 
 /*--------------------------------------------------------------
@@ -778,18 +778,18 @@ section {
 }
 
 .more-services .card-title a:hover {
-  color: #1bbca3;
+  color:  #FFFF00;
 }
 
 .more-services .btn {
   border-radius: 50px;
   padding: 4px 30px 6px 30px;
-  border: 2px solid #1bbca3;
+  border: 2px solid  #FFFF00;
 }
 
 .more-services .btn:hover {
   color: #fff;
-  background: #1bbca3;
+  background:  #FFFF00;
 }
 
 /*--------------------------------------------------------------
@@ -854,7 +854,7 @@ section {
 }
 
 .info-box .accordion-list a:hover {
-  color: #1bbca3;
+  color:  #FFFF00;
 }
 
 .info-box .accordion-list span {
@@ -885,7 +885,7 @@ section {
 }
 
 .info-box .accordion-list a.collapsed:hover {
-  color: #1bbca3;
+  color:  #FFFF00;
 }
 
 .info-box .accordion-list a.collapsed .icon-show {
@@ -948,7 +948,7 @@ section {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #1bbca3;
+  color:  #FFFF00;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -1070,7 +1070,7 @@ section {
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot.active {
-  background-color: #1bbca3 !important;
+  background-color:  #FFFF00 !important;
 }
 
 .portfolio-details .portfolio-info {
@@ -1192,7 +1192,7 @@ section {
 }
 
 .team .member .social a:hover {
-  color: #1bbca3;
+  color:  #FFFF00;
 }
 
 .team .member .social i {
@@ -1330,7 +1330,7 @@ section {
 }
 
 .contact .php-email-form input::focus, .contact .php-email-form textarea::focus {
-  background-color: #1bbca3;
+  background-color:  #FFFF00;
 }
 
 .contact .php-email-form input {
@@ -1343,14 +1343,14 @@ section {
 
 .contact .php-email-form button[type="submit"] {
   background: #fff;
-  border: 2px solid #1bbca3;
+  border: 2px solid  #FFFF00;
   padding: 10px 24px;
-  color: #1bbca3;
+  color:  #FFFF00;
   transition: 0.4s;
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #1bbca3;
+  background:  #FFFF00;
   color: #fff;
 }
 
@@ -1436,7 +1436,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #1bbca3;
+  background:  #FFFF00;
   color: #fff;
   text-decoration: none;
 }
@@ -1510,7 +1510,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #1bbca3;
+  background:  #FFFF00;
   color: #fff;
   transition: 0.3s;
   border-radius: 4;
